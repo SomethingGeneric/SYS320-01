@@ -1,0 +1,86 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2\create_folder_if_not_exists.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2","create_folder_if_not_exists.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\SYS320-01\week2\create_folder_if_not_exists.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","create_folder_if_not_exists","System.Collections.Generic.List`1[System.String]",,"create_folder_if_not_exists.ps1","203","C:\Users\champuser\SYS320-01\week2","C:\Users\champuser\SYS320-01\week2","False","True","C:\Users\champuser\SYS320-01\week2\create_folder_if_not_exists.ps1",".ps1","1/26/2024 11:42:18 AM","1/26/2024 4:42:18 PM","1/26/2024 11:42:25 AM","1/26/2024 4:42:25 PM","1/26/2024 11:42:25 AM","1/26/2024 4:42:25 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2\export_csv_of_ps1.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2","export_csv_of_ps1.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\SYS320-01\week2\export_csv_of_ps1.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","export_csv_of_ps1","System.Collections.Generic.List`1[System.String]",,"export_csv_of_ps1.ps1","277","C:\Users\champuser\SYS320-01\week2","C:\Users\champuser\SYS320-01\week2","False","True","C:\Users\champuser\SYS320-01\week2\export_csv_of_ps1.ps1",".ps1","1/26/2024 11:47:48 AM","1/26/2024 4:47:48 PM","1/26/2024 11:47:48 AM","1/26/2024 4:47:48 PM","1/26/2024 11:47:48 AM","1/26/2024 4:47:48 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2\list_powershell_files.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2","list_powershell_files.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\SYS320-01\week2\list_powershell_files.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","list_powershell_files","System.Collections.Generic.List`1[System.String]",,"list_powershell_files.ps1","218","C:\Users\champuser\SYS320-01\week2","C:\Users\champuser\SYS320-01\week2","False","True","C:\Users\champuser\SYS320-01\week2\list_powershell_files.ps1",".ps1","1/26/2024 11:35:34 AM","1/26/2024 4:35:34 PM","1/26/2024 11:40:07 AM","1/26/2024 4:40:07 PM","1/26/2024 11:40:07 AM","1/26/2024 4:40:07 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2\sample1.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2","sample1.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\SYS320-01\week2\sample1.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","sample1","System.Collections.Generic.List`1[System.String]",,"sample1.ps1","0","C:\Users\champuser\SYS320-01\week2","C:\Users\champuser\SYS320-01\week2","False","True","C:\Users\champuser\SYS320-01\week2\sample1.ps1",".ps1","1/26/2024 11:30:48 AM","1/26/2024 4:30:48 PM","1/26/2024 11:30:48 AM","1/26/2024 4:30:48 PM","1/26/2024 11:30:48 AM","1/26/2024 4:30:48 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2\sample2.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2","sample2.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\SYS320-01\week2\sample2.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","sample2","System.Collections.Generic.List`1[System.String]",,"sample2.ps1","0","C:\Users\champuser\SYS320-01\week2","C:\Users\champuser\SYS320-01\week2","False","True","C:\Users\champuser\SYS320-01\week2\sample2.ps1",".ps1","1/26/2024 11:30:52 AM","1/26/2024 4:30:52 PM","1/26/2024 11:30:52 AM","1/26/2024 4:30:52 PM","1/26/2024 11:30:52 AM","1/26/2024 4:30:52 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2\sample3.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\SYS320-01\week2","sample3.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\SYS320-01\week2\sample3.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","sample3","System.Collections.Generic.List`1[System.String]",,"sample3.ps1","0","C:\Users\champuser\SYS320-01\week2","C:\Users\champuser\SYS320-01\week2","False","True","C:\Users\champuser\SYS320-01\week2\sample3.ps1",".ps1","1/26/2024 11:30:55 AM","1/26/2024 4:30:55 PM","1/26/2024 11:30:55 AM","1/26/2024 4:30:55 PM","1/26/2024 11:30:55 AM","1/26/2024 4:30:55 PM","Archive"

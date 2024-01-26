@@ -1,4 +1,6 @@
-﻿cd C:\Users\champuser\SYS320-01\week2
+﻿$scriptpath = "C:\Users\champuser\SYS320-01\week2\Powershell Lab 1 (Basic)"
+
+cd $scriptpath
 
 $files = (Get-ChildItem)
 

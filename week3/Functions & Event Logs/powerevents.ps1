@@ -1,5 +1,6 @@
 ﻿function getPowerEvents($days) {
 
+
     $shutdowns = Get-EventLog System -Source EventLog -After (Get-Date).AddDays(-$days) | Where {$_.EventId -in "6006","6005"}
 
     $shutdownstable = @()

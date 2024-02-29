@@ -18,6 +18,5 @@
 
     }
 
-    return $tablerecords | Where-Object { $_.IP -ilike "10.*" }
-
+    return $tablerecords
 }

@@ -1,7 +1,7 @@
 . (Join-Path $PSScriptRoot .\parselogs.ps1)
 . (Join-Path $PSScriptRoot .\Event-Logs.ps1)
 
-clear
+#clear
 
 $Prompt = "Please choose your operation:`n"
 $Prompt += "1 - Display last 10 apache logs`n"
@@ -28,7 +28,8 @@ while($operation){
     }
 
     elseif($choice -eq 2){
-        $failedLogins = getFailedLogins
+        $days = Read-Host "How many days of logs should we grab? : "
+        $failedLogins = getFailedLogins $days
         Write-Host ($failedLogins | Format-Table | Out-String)
     }
 
